@@ -12,7 +12,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include <modbus.h>
+#include <modbus/modbus.h>
 
 /* The goal of this program is to check all major functions of
    libmodbus:
